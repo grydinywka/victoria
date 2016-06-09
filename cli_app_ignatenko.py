@@ -171,7 +171,7 @@ if __name__ == '__main__':
 		
 		
 		print '......................'
-		print 'Please wait a few minutes ...'
+		print 'Please wait about minute ...\n'
 		value_part = size // split_size + 1
 		for part in xrange(value_part):
 			if cursor + split_size > size:
