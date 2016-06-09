@@ -1,0 +1,11 @@
+*.pyc
+*.csv
+cli.py
+names.py
+pools.py
+process.py
+read*
+*.txt
+thread*
+tmp*
+*.doc*
